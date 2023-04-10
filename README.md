@@ -38,3 +38,13 @@ ESEMPIO:
 Ammettiamo che all'interno della classifica esista un giocatore di nome "J-Zan3tti", questo giocatore ha 24 punti.
 Se modifichi direttamente il punteggio in 25 vedrai "25" accanto a J-Zan3tti in classifica, mentre se infliggi una penalizzazione vedrai 24(-1), mentre 25(+1) per un possibile bonus, i punti che vedi in classifica sono la somma di bonus, malus e punti che al momento dell'aggiunta di un giocatore corrisponde a 0 per tutti e tre.
 
+## Partita
+
+In questa sezione dovrai scegliere i giocatori che supereranno le varie fasi della partita, selezionando la checkbox accanto al nome dei giocatori e premendo il tasto ">>" in alto a destra per passare alla fase successiva.
+Inizialmente, quando dovrai selezionare i primi 10 giocatori che hanno passato la fase 10v10, vedrai tutti i giocatori presenti in classifica, mentre per le fasi successive vedrai solo i giocatori partecipanti a quella specifica fase.
+Quando finirà la partita verrà visualizzata a schermo una finestra di riepilogo con i punti guadagnati da ogni giocatore (+1 per la fase 10v10, +2 5v5, +1 rigiori, +4 semifinale, +12 Egoisto), alla chiusura di questa finestra verranno assegnati tutti i punti ai giocatori.
+
+## Classifica
+
+Qui sarà possibile visualizzare la classifica, per ogni giocatore verrà visualizzato Rank, Nome e Punti. Il primo Classificato avrà il rank di "Egoisto" tutti gli altri verranno identificati con un numero cardinale 2 per il seondo, 3 per il terzo ecc.
+La classifica a parità di punteggio riconosce due o più giocatori nella stessa posizione.
