@@ -6,7 +6,14 @@
 * [Sezione Partita](#partita)
 * [Sezione Classifica](#classifica)
 
+## Premessa
+
+Scarica l'ultima versione del software dalla sezione release, il file che scaricherai potrebbe essere riconosciuto dal tuo browser e da windows (sia nel momento dell'installazione che del primo avvio) come potenzialmente dannoso, questo succede perché attualmente il software è privo di una firma digitale certificata.
+Durante il processo di installazione assicurati di creare un collegamento sul desktop (Non è fondamentale ma ti faciliterà molto la vita) clicca col tasto destro del mouse sul collegamento con il logo di haxlock e apri la scheda proprietà > compatibilità, spunta l'opzione "Esegui come amministartore" successivamente clicca in basso su "Applica" e "OK".
+Eseguire l'applicazione come amministratore è fondamentale per il suo corretto funzionamento.
+
 ## Giocatori
+
 In questa sezione è possibile aggiungere, eliminare e modificare i giocatori che faranno parte della classifica di Haxball.
 
 ### Aggiungi Giocatore
